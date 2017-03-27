@@ -1,4 +1,6 @@
 ## StudyFriend Privacy Policy		
+
+StudyFriend uses Login With Amazon for authentication. StudyFriend will only use your Amazon user_id.
   		  
  You can use the [editor on GitHub](https://github.com/MustaRohman/PrivacyPolicy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.		
  		
